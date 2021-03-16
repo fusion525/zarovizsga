@@ -1,5 +1,6 @@
 package hu.nive.ujratervezes.zarovizsga.workhours;
 
+import hu.nive.ujratervezes.zaroviszga.WorkHours;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
